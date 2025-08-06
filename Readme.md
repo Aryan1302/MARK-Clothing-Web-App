@@ -1,3 +1,5 @@
+NOTE: This project was uploaded with the permission of the owner and I am one of the contributors that created this project. The actual link to the owner's repository is provided in the Overview section.
+
 # Overview
 Welcome to MARK Clothing E-Commerce Store. This project is an e-commerce website that is created using React, Node.JS, MySQL database, and it is deployed on Docker. 
 
